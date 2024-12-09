@@ -9,12 +9,8 @@ import type {
 
 import {
   mobile,
-  backend,
   creator,
-  web,
   reactjs,
-  redux,
-  tailwind,
   nodejs,
   mongodb,
   git,
